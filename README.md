@@ -8,9 +8,9 @@ A native Android Dynamic Island-inspired experience built with Kotlin and Jetpac
 - Package: com.nasx.nothingisland
 - Language: Kotlin
 - UI: Jetpack Compose
-- Development IDE: Android Studio
+- IDE: Android Studio
 
-## Current Progress
+## Development Progress
 
 ### v6.0 – Native Android Prototype
 - Initial Android application
@@ -36,14 +36,18 @@ A native Android Dynamic Island-inspired experience built with Kotlin and Jetpac
 - Improved notification cards
 
 ### v6.5 – Smart Controls
-- Individual feed dismissal
+- Individual notification feed dismissal
 - Clear All feed control
 - Open sending application action
 
-## Important
+## Technologies
+- Kotlin
+- Android SDK
+- Jetpack Compose
+- Android Studio
 
-This is an ongoing development project. Some features are demos, and system-wide overlay, real media integration and live navigation are still under development.
+## Status
+Ongoing development. System-wide overlay, real media integration and live navigation are planned future improvements.
 
 ## Developer
-
 Musthafa K Siyad
